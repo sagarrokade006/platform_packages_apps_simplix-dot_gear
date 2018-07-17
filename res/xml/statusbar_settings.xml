@@ -46,7 +46,7 @@
         android:dialogTitle="@string/status_bar_logo_dialog_title"
         android:entries="@array/status_bar_logo_entries"
         android:entryValues="@array/status_bar_logo_values"
-        android:defaultValue="0" />
+        android:defaultValue="1" />
 
     <com.cosmic.settings.preferences.SystemSettingSwitchPreference
        android:key="show_lte_fourgee"
@@ -70,7 +70,7 @@
         android:key="network_traffic_state"
         android:title="@string/network_traffic_state_title"
         android:summary="@string/network_traffic_state_summary"
-        android:defaultValue="true" />
+        android:defaultValue="false" />
 
     <com.cosmic.settings.preferences.CustomSeekBarPreference
         android:key="network_traffic_autohide_threshold"
