@@ -578,11 +578,17 @@
     <string name="heads_up_snooze_20min">20 minutes</string>
 
     <!-- Statusbar logo -->
-    <string name="status_bar_logo_title">Simplix. Logo</string>
-    <string name="status_bar_logo_dialog_title">Simplix. logo position</string>
+    <string name="status_bar_logo_title">Simplix Logo</string>
+    <string name="status_bar_logo_dialog_title">Simplix logo position</string>
     <string name="status_bar_logo_disabled">Disabled</string>
     <string name="status_bar_logo_left">Left</string>
     <string name="status_bar_logo_right">Right</string>
+    
+    <string name="status_bar_logo_type_title">Logo Type</string>
+    <string name="status_bar_logo_type_dialog_title">Status Bar Logo Type</string>
+    <string name="status_bar_logo_type_simplix">Simplix</string>
+    <string name="status_bar_logo_type_cat">Cat</string>
+    <string name="status_bar_logo_type_whale">Whale come</string>
 
     <!-- Carrier Label -->
     <string name="carrier_category">Status bar label</string>

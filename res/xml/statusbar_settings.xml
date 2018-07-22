@@ -47,7 +47,15 @@
         android:entries="@array/status_bar_logo_entries"
         android:entryValues="@array/status_bar_logo_values"
         android:defaultValue="1" />
-
+        
+     <com.cosmic.settings.preferences.SystemSettingListPreference
+        android:key="status_bar_logo_type"
+        android:title="@string/status_bar_logo_type_title"
+        android:dialogTitle="@string/status_bar_logo_type_dialog_title"
+        android:entries="@array/status_bar_logo_type_entries"
+        android:entryValues="@array/status_bar_logo_type_values"
+        android:defaultValue="0" />
+    
     <com.cosmic.settings.preferences.SystemSettingSwitchPreference
        android:key="show_lte_fourgee"
        android:title="@string/show_4g_title"
