@@ -646,8 +646,8 @@
     <string name="expanded_user_configurable">User configurable</string>
 
     <!-- System default animation -->
-    <string name="system_default_animation_title">Android P animation style</string>
-    <string name="system_default_animation_summary">Enable Android P \"Default\" animations</string>
+    <string name="system_default_animation_title">Android Pie animation style</string>
+    <string name="system_default_animation_summary">Enable Android 9 Pie \"Default\" animations</string>
 
     <!-- Themes -->
     <string name="colors_category">Color settings</string>
