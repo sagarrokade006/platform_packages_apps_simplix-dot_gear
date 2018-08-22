@@ -64,4 +64,15 @@
             android:title="@string/show_cpu_info"
             android:summary="@string/show_cpu_info_summary" 
             android:defaultValue="false" />
+
+        <PreferenceCategory 
+        android:title="@string/havoc_blur_category"> 
+ 
+        <PreferenceScreen 
+            android:key="havoc_blur" 
+            android:fragment="com.cosmic.settings.fragments.BlurPersonalizations" 
+            android:title="@string/settings_blur_cat"  
+            android:summary="@string/settings_blur_sum"/> 
+ 
+    </PreferenceCategory>
 </PreferenceScreen>
